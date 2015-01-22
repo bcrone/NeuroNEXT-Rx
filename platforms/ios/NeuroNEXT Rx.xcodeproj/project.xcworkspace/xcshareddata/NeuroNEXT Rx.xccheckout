@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>81A95EAD-6D6D-4BEE-A01C-29AD6C5BD1A7</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>43343817EDBEA6B7D4AF75178F95759CED1C654E</key>
+		<string>github.com:msscully/NNRx.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>43343817EDBEA6B7D4AF75178F95759CED1C654E</key>
+		<string>www/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:msscully/NNRx.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>43343817EDBEA6B7D4AF75178F95759CED1C654E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43343817EDBEA6B7D4AF75178F95759CED1C654E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>www</string>
+		</dict>
+	</array>
+</dict>
+</plist>
